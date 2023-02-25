@@ -1,4 +1,16 @@
-
+#Jumbotron {
+    background-image: url("https://storage.googleapis.com/chile-travel-newsite-static-content/2021/08/Mujer-Bandera.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 32%;
+    background-position-x: 20%;
+    border-style: hidden;
+    margin-bottom:2%;
+    margin-top:3%;
+}
+#footer {
+    margin-top: 3%;
+}
 /* 
 
     You can write your own styles here...
