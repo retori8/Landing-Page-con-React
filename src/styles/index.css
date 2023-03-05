@@ -11,6 +11,23 @@
 #footer {
     margin-top: 3%;
 }
+
+.carousel-item img{
+    height: 400px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.carousel {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 30px;
+}
+
 /* 
 
     You can write your own styles here...
